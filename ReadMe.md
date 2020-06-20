@@ -1,6 +1,6 @@
 # spIntegration
 
-Node.js Backend API integration for ScalaPay API
+Node.js Backend API Integration for ScalaPay API
 
 ## Features
 
