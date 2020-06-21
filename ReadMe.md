@@ -159,4 +159,5 @@ Service request data
   "token": "D1K210DDQ6",
   "expires": "2019-10-21T23:45:37.086Z",
   "checkoutUrl": "https://staging.portal.scalapay.com/checkout?token=D1K210DDQ6"
-}```
+}
+```
