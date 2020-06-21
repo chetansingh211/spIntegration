@@ -40,7 +40,7 @@ Service endpoint will fetch the maerchant configuration from the ScalaPay API en
 ```bash
 GET /v2/configurations
 ```
-Serfice Response:
+Service Response:
 
 ```bash
 {
